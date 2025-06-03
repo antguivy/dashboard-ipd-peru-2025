@@ -1,6 +1,6 @@
 # Proyecto Data Storytelling: Desempeño Deportivo Internacional Peruano (2014-2023) 📊
 
-![Dashboard Medallero Deportivo](/dashboard-ipd-peru/docs/demo.gif)
+![Dashboard Medallero Deportivo](/dashboard-ipd-peru/docs-2025/demo.gif)
 
 ## Descripción del Proyecto
 
@@ -21,13 +21,13 @@ Este proyecto busca ir más allá de la presentación de datos brutos, contando 
 ## ¿Qué encontrarás en este proyecto? 🔍
 
 * **Imagen del Dashboard:**  
-  ![dashboard.png](/dashboard-ipd-peru/docs/dashboard_ss.png)
+  ![dashboard.png](/dashboard-ipd-peru-2025/docs/dashboard_ss.png)
 
 * **Imagen de fondo:**  Background realizado en figma. 
-![background.png](/dashboard-ipd-peru/docs/bg_figma.png) 
+![background.png](/dashboard-ipd-peru/docs-2025/bg_figma.png) 
 
 * **Proceso:**  Proceso de creación del dashboard, desde la obtención de datos hasta la visualización final. 
-![Proceso.png](/dashboard-ipd-peru/docs/process.png) 
+![Proceso.png](/dashboard-ipd-peru/docs-2025/process.png) 
 
 * **Conjunto de Datos (Opcional):** El conjunto de datos utilizado para este proyecto se encuentra en `data/raw` y puedes descargarlo de la [Plataforma Nacional de Datos Abiertos](https://datosabiertos.gob.pe/dataset/deportistas-en-eventos-deportivos-internacionales-instituto-peruano-del-deporte-ipd).
 
